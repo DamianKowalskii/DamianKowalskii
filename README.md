@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DamianKowalskii
-- 👀 I like to tinker with machine learning and drones.
+- 👀 Tinkering with drones.
 - 📫 How to reach me damian.kowalski@mailfence.com
 
 <!---
