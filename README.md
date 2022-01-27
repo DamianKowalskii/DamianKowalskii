@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DamianKowalskii
-- 👀 Tinkering with drones.
+- 👀 Tinkering with hardware.
 - 📫 How to reach me damian.kowalski@mailfence.com
 
 <!---
